@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace;
+using namespace std;
 
 int main() {
     // Declaração da variável para armazenar o salário
